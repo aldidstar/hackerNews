@@ -1,0 +1,23 @@
+.cardContent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+
+  color: #f30d0d;
+  font-size: 0.9em;
+}
+
+h2 {
+  font-family: "Rajdhani", sans-serif;
+  font-weight: 800;
+}
+
+.nickname {
+  padding: 0;
+  margin: 0;
+}
+
+.time {
+  padding: 0;
+  margin: 0;
+}

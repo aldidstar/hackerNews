@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hackerNews/static/css/main.d8849a0f.css",
+    "main.js": "/hackerNews/static/js/main.877d3724.js",
+    "static/css/770.6e86ba47.chunk.css": "/hackerNews/static/css/770.6e86ba47.chunk.css",
+    "static/js/770.f932d085.chunk.js": "/hackerNews/static/js/770.f932d085.chunk.js",
+    "static/css/462.4626d077.chunk.css": "/hackerNews/static/css/462.4626d077.chunk.css",
+    "static/js/462.b496c4da.chunk.js": "/hackerNews/static/js/462.b496c4da.chunk.js",
+    "static/media/wallpaperbetter.jpg": "/hackerNews/static/media/wallpaperbetter.fb2e837821d1420a7903.jpg",
+    "index.html": "/hackerNews/index.html",
+    "main.d8849a0f.css.map": "/hackerNews/static/css/main.d8849a0f.css.map",
+    "main.877d3724.js.map": "/hackerNews/static/js/main.877d3724.js.map",
+    "770.6e86ba47.chunk.css.map": "/hackerNews/static/css/770.6e86ba47.chunk.css.map",
+    "770.f932d085.chunk.js.map": "/hackerNews/static/js/770.f932d085.chunk.js.map",
+    "462.4626d077.chunk.css.map": "/hackerNews/static/css/462.4626d077.chunk.css.map",
+    "462.b496c4da.chunk.js.map": "/hackerNews/static/js/462.b496c4da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8849a0f.css",
+    "static/js/main.877d3724.js"
+  ]
+}

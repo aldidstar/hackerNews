@@ -1,0 +1,28 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Rajdhani", sans-serif;
+}
+
+.title {
+  padding: 20px 0;
+  font-size: 2em;
+}
+
+.btn {
+  cursor: pointer;
+  text-decoration: none;
+  color: rgba(4, 0, 0, 0.8);
+  background: rgb(92, 163, 182);
+  padding: 15px 40px;
+  border-radius: 100px;
+  font-weight: bolder;
+  text-transform: uppercase;
+  transition: all 0.2s ease-in-out;
+}
+
+.btn:hover {
+  color: rgba(255, 255, 255, 1);
+  box-shadow: 0 5px 15px rgba(145, 92, 182, 0.4);
+}
