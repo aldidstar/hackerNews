@@ -53,7 +53,7 @@ const NewsList = () => {
             prev={(e) => prevPage(e)}
             next={(e) => nextPage(e)}
             page={page}
-            total={5}
+            total={stories.length / limit}
           />
         </>
       )}
